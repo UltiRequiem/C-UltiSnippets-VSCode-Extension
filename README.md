@@ -1,4 +1,4 @@
-# C/C++ Snippets Pro
+# C UltiSnippets
 
 This extension adds a lot useful snippets for C.
 
