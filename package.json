@@ -1,7 +1,7 @@
 {
-    "name": "c-minimal-snippets",
-    "displayName": "C Minimal Snippets",
-    "description": "A minimal set of C snippets",
+    "name": "c-ultisnippets",
+    "displayName": "C UltiSnippets",
+    "description": "A set of C snippets",
     "icon": "img/icon.png",
     "version": "1.0.0",
     "engines": {
@@ -26,12 +26,14 @@
       "completion"
     ],
     "license": "MIT",
+
     "contributes": {
-      "snippets": [
-        {
-          "language": "c",
-          "path": "c.code-snippets"
-        }
-      ]
-    }
+		"snippets": [
+			{
+			"language": "c",
+			"path": "./snippets/c.code-snippets"
+			}
+		]
+	}
+    
   }
