@@ -1,5 +1,8 @@
+## No longer mainained
+I no longer use VSCODE.
+
 # C UltiSnippets
-[![Version](https://vsmarketplacebadge.apphb.com/version-short/EliazBobadilla.c-ultisnippets.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.c-ultisnippets) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/EliazBobadilla.c-ultisnippets.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack) [![Installs](https://vsmarketplacebadge.apphb.com/installs/EliazBobadilla.c-ultisnippets.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.EliazBobadilla.c-ultisnippets) [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://github.com/EliazBobadilla/C-UltiSnippets-VSCode-Extension/commits/main) [![Contribute](https://img.shields.io/badge/Help-Contribute-551A8B.svg)](https://github.com/EliazBobadilla/C-UltiSnippets-VSCode-Extension/blob/main/CONTRIBUTING.md) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org) 
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/EliazBobadilla.c-ultisnippets.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.c-ultisnippets) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/EliazBobadilla.c-ultisnippets.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.python-ultiextension-pack) [![Installs](https://vsmarketplacebadge.apphb.com/installs/EliazBobadilla.c-ultisnippets.svg)](https://marketplace.visualstudio.com/items?itemName=EliazBobadilla.EliazBobadilla.c-ultisnippets) [![Contribute](https://img.shields.io/badge/Help-Contribute-551A8B.svg)](https://github.com/EliazBobadilla/C-UltiSnippets-VSCode-Extension/blob/main/CONTRIBUTING.md) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org) 
 
 This extension adds a lot useful snippets for C.
 
